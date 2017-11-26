@@ -1,0 +1,2 @@
+# TestThrift
+Thrift demo(java)
