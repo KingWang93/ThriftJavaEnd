@@ -29,7 +29,7 @@ Thrift demo(java)
 这部分对应的代码是VertxThriftTest.java，这个实现了前端传参，发送http请求，调用服务端的服务，然后返回结果整个流程。
 
 ### 注意事项
-关于其中涉及到的一部分问题可以参考一下笔者的博客：http://blog.csdn.net/wk1134314305
+关于其中的Vertx和Thrift整合可以参考一下笔者的博客：http://blog.csdn.net/wk1134314305/article/details/78640406
 
 ### 联系笔者
 邮箱：1134314305@qq.com
